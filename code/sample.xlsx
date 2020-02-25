@@ -1,0 +1,781 @@
+<!DOCTYPE html>
+         <html>
+         <head>
+         <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+         <style>.style18{color:blue;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	;
+	;
+	;}
+a:link{color:blue;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	;}
+a:visited{color:purple;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	;}
+.style0{
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	;
+	;
+	;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	;
+	border:none;
+	;
+	;
+	;}
+.style19{
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	;
+	;
+	;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	;
+	border:none;
+	;
+	;}
+.style16{
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	;
+	;
+	;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	;
+	border:none;
+	;
+	;}
+.font15{color:red;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	;}
+.font20{color:black;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Tahoma, sans-serif;
+	;}
+td{
+	padding:0px;
+	;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	;
+	;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	;
+	;
+	;
+	white-space:nowrap;
+	;border: 1px dotted lightgray}
+.xl68{
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	;
+	vertical-align:middle;
+	border-top:1.5pt solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.5pt solid windowtext;
+	background:#4F81BD;
+	;}
+.xl69{
+	font-size:8.0pt;
+	vertical-align:middle;}
+.xl70{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1px solid white;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1px solid white;
+	border-left:1.5pt solid windowtext;
+	background:black;
+	;
+	white-space:normal;}
+.xl71{
+	font-size:8.0pt;
+	border-top:1.0pt solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1px solid windowtext;
+	border-left:1.5pt solid windowtext;}
+.xl72{
+	font-size:8.0pt;
+	border-top:1px solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1px solid windowtext;
+	border-left:1.5pt solid windowtext;}
+.xl73{
+	font-size:8.0pt;
+	border-top:1px solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;}
+.xl74{
+	font-size:8.0pt;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1px solid windowtext;
+	border-left:1.5pt solid windowtext;}
+.xl75{
+	color:blue;
+	font-size:8.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	border-top:1px solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1px solid windowtext;
+	border-left:1.5pt solid windowtext;}
+.xl76{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1px solid white;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;
+	background:black;
+	;
+	white-space:normal;}
+.xl77{
+	color:blue;
+	font-size:8.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	border-top:1px solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;}
+.xl78{
+	font-size:8.0pt;}
+.xl79{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	background:black;
+	;}
+.xl80{
+	font-size:8.0pt;
+	background:white;
+	;}
+.xl81{
+	font-size:8.0pt;
+	background:#D9D9D9;
+	;}
+.xl83{
+	font-weight:700;
+	text-decoration:underline;
+	text-underline-style:single;}
+.xl84{
+	background:black;
+	;}
+.xl85{
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	;
+	text-align:center;
+	vertical-align:middle;
+	border:1px solid windowtext;
+	background:#B8CCE4;
+	;
+	white-space:normal;}
+.xl86{
+	color:#0070C0;
+	font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border:1px solid windowtext;
+	background:yellow;
+	;
+	white-space:normal;}
+.xl87{
+	color:#0070C0;
+	font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border:1px solid windowtext;
+	background:#F2DCDB;
+	;
+	white-space:normal;}
+.xl88{
+	color:black;
+	font-size:12.0pt;
+	;
+	text-align:center;
+	vertical-align:middle;
+	background:white;
+	;}
+.xl89{
+	color:black;
+	font-size:12.0pt;
+	;
+	text-align:center;
+	vertical-align:middle;
+	border:1px solid windowtext;
+	background:white;
+	;
+	white-space:normal;}
+.xl90{
+	color:black;
+	font-size:8.0pt;
+	;
+	text-align:center;
+	vertical-align:middle;
+	background:black;
+	;
+	white-space:normal;}
+.xl91{
+	color:black;
+	font-size:8.0pt;
+	text-align:center;
+	vertical-align:middle;
+	background:black;
+	;}
+.xl92{
+	color:black;
+	font-size:8.0pt;
+	;
+	vertical-align:middle;
+	background:white;
+	;
+	white-space:normal;}
+.xl93{
+	color:black;
+	font-size:8.0pt;
+	;
+	text-align:center;
+	vertical-align:middle;
+	background:white;
+	;}
+.xl94{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:black;
+	;}
+.xl95{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:black;
+	;}
+.xl96{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:black;
+	;}
+.xl97{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:black;
+	;
+	white-space:normal;}
+.xl98{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:black;
+	;}
+.xl99{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:black;
+	;
+	white-space:normal;}
+.xl100{
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:black;
+	;
+	white-space:normal;}
+.xl101{
+	font-size:8.0pt;
+	text-align:center;
+	vertical-align:middle;}
+.xl102{
+	font-size:8.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:white;
+	;}
+.xl103{
+	font-size:8.0pt;
+	text-align:center;
+	background:white;
+	;}
+.xl104{
+	font-size:8.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:white;
+	;}
+.xl105{
+	font-size:8.0pt;
+	;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:white;
+	;}
+.xl106{
+	font-size:8.0pt;
+	text-align:center;}
+.xl107{
+	font-size:8.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:#D9D9D9;
+	;}
+.xl108{
+	font-size:8.0pt;
+	text-align:center;
+	background:#D9D9D9;
+	;}
+.xl109{
+	font-size:8.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#D9D9D9;
+	;}
+.xl110{
+	font-size:8.0pt;
+	;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:#D9D9D9;
+	;}
+.xl111{
+	font-size:8.0pt;
+	;
+	text-align:center;}
+.xl112{
+	font-size:12.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:#D9D9D9;
+	;
+	white-space:normal;}
+.xl113{
+	font-size:12.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:#D9D9D9;
+	;
+	white-space:normal;}
+.xl114{
+	font-size:12.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;
+	background:#D9D9D9;
+	;
+	white-space:normal;}
+.xl115{
+	font-size:12.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:#A6A6A6;
+	;
+	white-space:normal;}
+.xl116{
+	font-size:12.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:#A6A6A6;
+	;}
+.xl117{
+	font-size:12.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;
+	background:#A6A6A6;
+	;}
+.abd{height:11.1pt;}
+.acl{width:57pt;}
+.acm{height:15.0pt;}
+.abj{width:118pt;}
+.aby{font-size:8.0pt;}
+.aci{
+ width:113pt;}
+.abb{width:40pt;}
+.abc{width:33pt;}
+.abg{padding:.75pt 0pt 0pt .75pt;text-align:left;}
+.abm{height:18.0pt;}
+.acg{width:92pt;}
+.abp{border-left:none;width:302pt;}
+.acb{
+ width:122pt;}
+.acf{width:122pt;}
+.acs{width:113pt;}
+.aaj{
+ width:32pt;}
+.aan{
+ width:40pt;}
+.aar{width:48pt;}
+.ace{height:11.25pt;width:29pt;}
+.acp{height:21.0pt;}
+.aah{
+ width:54pt;}
+.aav{width:43pt;}
+.abn{height:18.0pt;width:81pt;}
+.abr{height:12.0pt;}
+.abu{height:12.0pt;border-top:none;
+  border-left:none;width:118pt;}
+.aat{border-left:none;width:45pt;}
+.abk{width:302pt;}
+.aaw{width:54pt;}
+.aay{width:32pt;}
+.acv{border-top:none;width:137pt;}
+.abh{border-collapse:
+ collapse;table-layout:fixed;width:693pt;}
+.aaz{width:39pt;}
+.acr{height:48.0pt;}
+.aac{
+ width:48pt;}
+.aag{
+ width:43pt;}
+.aal{
+ width:29pt;}
+.aad{
+ width:47pt;}
+.aax{width:62pt;}
+.acc{
+ width:92pt;}
+.acd{height:11.25pt;}
+.aam{width:20pt;}
+.abl{
+ width:192pt;}
+.abv{border-bottom:1.5pt solid black;
+  height:300.0pt;width:81pt;}
+.ack{
+ width:125pt;}
+.aaa{border-collapse:
+ collapse;table-layout:fixed;width:973pt;}
+.aai{
+ width:62pt;}
+.ach{border-collapse:
+ collapse;table-layout:fixed;width:674pt;}
+.aau{width:86pt;}
+.abs{border-bottom:1.5pt solid black;
+  height:36.0pt;border-top:none;width:81pt;}
+.aca{border-collapse:
+ collapse;table-layout:fixed;width:243pt;}
+.acn{height:15.0pt;width:674pt;}
+.aco{height:15.0pt;}
+.aae{
+ width:45pt;}
+.aaf{
+ width:86pt;}
+.aao{
+ width:33pt;}
+.acq{height:21.0pt;}
+.acu{border-left:none;width:125pt;}
+.abz{display:none;}
+.acw{border-top:none;border-left:none;width:125pt;}
+.aap{height:24.0pt;}
+.aba{width:29pt;}
+.abt{border-top:none;border-left:none;}
+.aaq{height:24.0pt;width:115pt;}
+.abw{border-top:none;border-left:none;width:118pt;}
+.acj{
+ width:137pt;}
+.abe{border-left:none;}
+.abi{width:81pt;}
+.abo{border-left:none;width:118pt;}
+.abq{border-left:none;width:192pt;}
+.abx{visibility:
+  hidden;}
+.aab{
+ width:115pt;}
+.aak{
+ width:39pt;}
+.aas{width:47pt;}
+.act{border-left:none;width:137pt;}
+
+    #tabstrip {
+        bottom: 0px;
+        position: fixed;
+        border-top: 1px solid #ccc;
+        width: 100%;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+    #tabstrip div { /* Contains the tabstrip links */
+        border-right: 1px solid #ccc;
+        padding: 3px 5px;
+        display: inline-block;
+    }
+    #tabstrip a {
+        text-decoration: none;
+        font-size: 14px;
+        font-family: "Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+        /* Before a sheet is loaded, its tab is inactive */
+        cursor: default;
+        color: #ccc;
+    }
+    #tabstrip a.loaded {
+        cursor: auto;
+        color: #2895f1;
+    }
+    /* This should appear after the "loaded" style for precedence */
+    #tabstrip a.current {
+        cursor: default;
+        color: #000;
+    }
+    #wrapper {
+        overflow: auto;
+        width: 100%;
+        left: 0px;
+        top: 0px;
+        position: relative;
+        /* webkit inertia scrolling in scrollable divs */
+        -webkit-overflow-scrolling: touch;
+    }
+    .sheet-content {
+        margin: 5px;
+        background-color: white;
+    }
+    body {
+        margin: 0px;
+    }
+</style><script type="text/javascript">
+    (function(globals) {
+        globals.loaded_sheets = {};
+    }(this));
+
+    function _show_sheet(sheet_id) {
+        var sheets = document.getElementsByClassName("sheet-content");
+        for (var i = 0; i < sheets.length; i++) {
+            sheets[i].style.display = sheet_id == sheets[i].id ? "inline-block" : "none";
+        }
+        var tab_links = document.getElementsByClassName("tabstrip-link");
+        for (var i = 0; i < tab_links.length; i++) {
+            // Remove the "current" class from all tabs and add it to the one that was clicked.
+            tab_links[i].className = tab_links[i].className.replace(/\bcurrent\b/, "");
+            if (tab_links[i].getAttribute('sheet_id') == sheet_id) {
+                tab_links[i].className += " current";
+            }
+        }
+    }
+
+    function on_tab_click(sheet_id) {
+        if (sheet_id in loaded_sheets) {
+            _show_sheet(sheet_id);
+            document.getElementById('wrapper').scrollTop = 0;
+        }
+    }
+
+    function activate_tab(tabstrip_link_id) {
+        var link = document.getElementById(tabstrip_link_id);
+        link.className += " loaded";
+        var sheet_id = link.getAttribute('sheet_id');
+        loaded_sheets[sheet_id] = true;
+    }
+
+    function goto_cell(sheet_id, ele_name) {
+        if (sheet_id in loaded_sheets) {
+            _show_sheet(sheet_id);
+            document.getElementsByName(ele_name)[0].scrollIntoView();
+        }
+    }
+
+    function resize() {
+        var w_height = window.innerHeight;
+        var t_height = document.getElementById('tabstrip').offsetHeight;
+        document.getElementById('wrapper').style.height = (w_height - t_height) + "px";
+    }
+
+    window.onresize = resize;
+</script></head><body><div id="tabstrip"><div>
+              <a sheet_id="sheet001" id="tabstrip-link-0" href="#" onclick="on_tab_click('sheet001'); return false;" class="tabstrip-link current">NBA-SEASON-PLAYER-SAMPLE</a>
+            </div><div>
+              <a sheet_id="sheet002" id="tabstrip-link-1" href="#" onclick="on_tab_click('sheet002'); return false;" class="tabstrip-link">METADATA</a>
+            </div><div>
+              <a sheet_id="sheet003" id="tabstrip-link-2" href="#" onclick="on_tab_click('sheet003'); return false;" class="tabstrip-link">TEAMS</a>
+            </div><div>
+              <a sheet_id="sheet004" id="tabstrip-link-3" href="#" onclick="on_tab_click('sheet004'); return false;" class="tabstrip-link">CONVERT DATE FORMAT</a>
+            </div></div><div id="wrapper"><script>resize();</script><div id="sheet001" class="sheet-content" style="display: inline-block;"><table border="0" cellpadding="0" cellspacing="0" width="1284" class="aaa"><col class="xl106 aab" width="153"><col class="xl106 aac" width="64"><col class="xl106 aad" width="62"><col class="xl106 aae" width="60"><col class="xl106 aaf" width="114"><col class="xl106 aag" width="57"><col class="xl106 aah" width="72"><col class="xl106 aai" width="82"><col class="xl106 aaj" width="43"><col class="xl106 aak" width="52"><col class="xl111 aal" width="38"><col class="xl106 aam" width="26" span="15"><col class="xl111 aan" width="53"><col class="xl106 aao" width="44"><tr class="xl101 aap" height="32"><td height="32" class="xl94 aaq">DATASET</td><td class="xl95 aar">GAME-ID</td><td class="xl96 aas">DATE</td><td class="xl94 aat">PLAYER-ID</td><td class="xl97 aau">PLAYER <br>
+    FULL NAME</td><td class="xl95 aav">POSITION</td><td class="xl97 aaw">OWN <br>
+    TEAM</td><td class="xl97 aax">OPPONENT <br>
+    TEAM</td><td class="xl97 aay">VENUE<br>
+    (R/H)</td><td class="xl97 aaz">STARTER<br>
+    (Y/N)</td><td class="xl98 aba">MIN</td><td class="xl95 aam">FG</td><td class="xl95 aam">FGA</td><td class="xl95 aam">3P</td><td class="xl95 aam">3PA</td><td class="xl95 aam">FT</td><td class="xl95 aam">FTA</td><td class="xl95 aam">OR</td><td class="xl95 aam">DR</td><td class="xl95 aam">TOT</td><td class="xl95 aam">A</td><td class="xl95 aam">PF</td><td class="xl95 aam">ST</td><td class="xl95 aam">TO</td><td class="xl95 aam">BL</td><td class="xl95 aam">PTS</td><td class="xl99 abb">USAGE <br>
+    RATE (%)</td><td class="xl100 abc">DAYS<br>
+    REST<span class="msocomspan1"><span class="msocomspan2" id="_anchor_1" onmouseover="msoCommentShow(&#39;_com_1&#39;,&#39;_anchor_1&#39;)" onmouseout="msoCommentHide(&#39;_com_1&#39;)" language="JavaScript"><a class="msocomanch" href="#" name="sheet001__msoanchor_1" onclick="goto_cell(decodeURI(&#39;sheet001&#39;), decodeURI(&#39;sheet001__msocom_1&#39;)); return false;">[1]</a></span></span></td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">203967</td><td class="xl103">Dario Saric</td><td class="xl103">F</td><td class="xl103">Philadelphia</td><td class="xl103">Boston</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">22.90</td><td class="xl103">3</td><td class="xl103">8</td><td class="xl103">0</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">6</td><td class="xl103">6</td><td class="xl103">1</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">3</td><td class="xl103">0</td><td class="xl103">6</td><td class="xl105">20.38</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">203496</td><td class="xl108">Robert Covington</td><td class="xl108">F</td><td class="xl108">Philadelphia</td><td class="xl108">Boston</td><td class="xl108">R</td><td class="xl108">Y</td><td class="xl110">34.22</td><td class="xl108">3</td><td class="xl108">10</td><td class="xl108">2</td><td class="xl108">7</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">5</td><td class="xl108">6</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">8</td><td class="xl110">14.88</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">203954</td><td class="xl103">Joel Embiid</td><td class="xl103">F-C</td><td class="xl103">Philadelphia</td><td class="xl103">Boston</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">36.82</td><td class="xl103">9</td><td class="xl103">21</td><td class="xl103">1</td><td class="xl103">4</td><td class="xl103">4</td><td class="xl103">5</td><td class="xl103">2</td><td class="xl103">8</td><td class="xl103">10</td><td class="xl103">2</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">5</td><td class="xl103">2</td><td class="xl103">23</td><td class="xl105">32.50</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1628365</td><td class="xl108">Markelle Fultz</td><td class="xl108">G</td><td class="xl108">Philadelphia</td><td class="xl108">Boston</td><td class="xl108">R</td><td class="xl108">Y</td><td class="xl110">24.33</td><td class="xl108">2</td><td class="xl108">7</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">5</td><td class="xl110">18.98</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">1627732</td><td class="xl103">Ben Simmons</td><td class="xl103">G-F</td><td class="xl103">Philadelphia</td><td class="xl103">Boston</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">42.73</td><td class="xl103">7</td><td class="xl103">14</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">5</td><td class="xl103">10</td><td class="xl103">3</td><td class="xl103">12</td><td class="xl103">15</td><td class="xl103">8</td><td class="xl103">5</td><td class="xl103">4</td><td class="xl103">3</td><td class="xl103">2</td><td class="xl103">19</td><td class="xl105">21.25</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">101161</td><td class="xl108">Amir Johnson</td><td class="xl108">C-F</td><td class="xl108">Philadelphia</td><td class="xl108">Boston</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">11.18</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">5</td><td class="xl110">10.48</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">200755</td><td class="xl103">JJ Redick</td><td class="xl103">G</td><td class="xl103">Philadelphia</td><td class="xl103">Boston</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">29.77</td><td class="xl103">7</td><td class="xl103">17</td><td class="xl103">2</td><td class="xl103">8</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">16</td><td class="xl105">24.23</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">204456</td><td class="xl108">T.J. McConnell</td><td class="xl108">G</td><td class="xl108">Philadelphia</td><td class="xl108">Boston</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">22.43</td><td class="xl108">2</td><td class="xl108">5</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">4</td><td class="xl110">9.46</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">1629013</td><td class="xl103">Landry Shamet</td><td class="xl103">G</td><td class="xl103">Philadelphia</td><td class="xl103">Boston</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">12.72</td><td class="xl103">0</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl105">16.28</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1628413</td><td class="xl108">Jonah Bolden</td><td class="xl108">F</td><td class="xl108">Philadelphia</td><td class="xl108">Boston</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">1.45</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl110">0.00</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">1627788</td><td class="xl103">Furkan Korkmaz</td><td class="xl103">G-F</td><td class="xl103">Philadelphia</td><td class="xl103">Boston</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">1.45</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl105">0.00</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1628369</td><td class="xl108">Jayson Tatum</td><td class="xl108">F</td><td class="xl108">Boston</td><td class="xl108">Philadelphia</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">28.93</td><td class="xl108">9</td><td class="xl108">17</td><td class="xl108">1</td><td class="xl108">5</td><td class="xl108">4</td><td class="xl108">5</td><td class="xl108">2</td><td class="xl108">7</td><td class="xl108">9</td><td class="xl108">3</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">23</td><td class="xl110">28.61</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">202330</td><td class="xl103">Gordon Hayward</td><td class="xl103">F</td><td class="xl103">Boston</td><td class="xl103">Philadelphia</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">24.62</td><td class="xl103">4</td><td class="xl103">12</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">3</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">10</td><td class="xl105">21.43</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">201143</td><td class="xl108">Al Horford</td><td class="xl108">F-C</td><td class="xl108">Boston</td><td class="xl108">Philadelphia</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">29.95</td><td class="xl108">4</td><td class="xl108">7</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">4</td><td class="xl108">4</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">4</td><td class="xl108">9</td><td class="xl110">14.28</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">1627759</td><td class="xl103">Jaylen Brown</td><td class="xl103">F</td><td class="xl103">Boston</td><td class="xl103">Philadelphia</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">28.38</td><td class="xl103">5</td><td class="xl103">13</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">3</td><td class="xl103">2</td><td class="xl103">5</td><td class="xl103">2</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">12</td><td class="xl105">22.92</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">202681</td><td class="xl108">Kyrie Irving</td><td class="xl108">G</td><td class="xl108">Boston</td><td class="xl108">Philadelphia</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">29.00</td><td class="xl108">2</td><td class="xl108">14</td><td class="xl108">1</td><td class="xl108">8</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">4</td><td class="xl108">4</td><td class="xl108">7</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">7</td><td class="xl110">25.26</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">202694</td><td class="xl103">Marcus Morris</td><td class="xl103">F</td><td class="xl103">Boston</td><td class="xl103">Philadelphia</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">20.50</td><td class="xl103">7</td><td class="xl103">12</td><td class="xl103">2</td><td class="xl103">7</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">8</td><td class="xl103">10</td><td class="xl103">0</td><td class="xl103">5</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">16</td><td class="xl105">25.98</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1626179</td><td class="xl108">Terry Rozier</td><td class="xl108">G</td><td class="xl108">Boston</td><td class="xl108">Philadelphia</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">26.52</td><td class="xl108">5</td><td class="xl108">10</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">8</td><td class="xl108">8</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">11</td><td class="xl110">16.99</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">203935</td><td class="xl103">Marcus Smart</td><td class="xl103">G</td><td class="xl103">Boston</td><td class="xl103">Philadelphia</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">25.00</td><td class="xl103">2</td><td class="xl103">4</td><td class="xl103">2</td><td class="xl103">4</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">3</td><td class="xl103">3</td><td class="xl103">3</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">7</td><td class="xl105">11.27</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">203382</td><td class="xl108">Aron Baynes</td><td class="xl108">F-C</td><td class="xl108">Boston</td><td class="xl108">Philadelphia</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">19.23</td><td class="xl108">3</td><td class="xl108">7</td><td class="xl108">2</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">1</td><td class="xl108">4</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">8</td><td class="xl110">17.04</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">1628464</td><td class="xl103">Daniel Theis</td><td class="xl103">F</td><td class="xl103">Boston</td><td class="xl103">Philadelphia</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">4.13</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl105">0.00</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1628400</td><td class="xl108">Semi Ojeleye</td><td class="xl108">F</td><td class="xl108">Boston</td><td class="xl108">Philadelphia</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">1.45</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl110">0.00</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800001</td><td class="xl104">10/16/2018</td><td class="xl102 abe">1627824</td><td class="xl103">Guerschon Yabusele</td><td class="xl103">F</td><td class="xl103">Boston</td><td class="xl103">Philadelphia</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">1.45</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl105">0.00</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800001</td><td class="xl109">10/16/2018</td><td class="xl107 abe">202954</td><td class="xl108">Brad Wanamaker</td><td class="xl108">G</td><td class="xl108">Boston</td><td class="xl108">Philadelphia</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">0.83</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl110">49.36</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">202331</td><td class="xl103">Paul George</td><td class="xl103">F</td><td class="xl103">Oklahoma City</td><td class="xl103">Golden State</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">37.40</td><td class="xl103">9</td><td class="xl103">23</td><td class="xl103">4</td><td class="xl103">12</td><td class="xl103">5</td><td class="xl103">8</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">5</td><td class="xl103">3</td><td class="xl103">4</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">27</td><td class="xl105">33.36</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">202335</td><td class="xl108">Patrick Patterson</td><td class="xl108">F</td><td class="xl108">Oklahoma City</td><td class="xl108">Golden State</td><td class="xl108">R</td><td class="xl108">Y</td><td class="xl110">18.90</td><td class="xl108">2</td><td class="xl108">9</td><td class="xl108">1</td><td class="xl108">4</td><td class="xl108">2</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">2</td><td class="xl108">5</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">7</td><td class="xl110">23.70</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">203500</td><td class="xl103">Steven Adams</td><td class="xl103">C</td><td class="xl103">Oklahoma City</td><td class="xl103">Golden State</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">35.60</td><td class="xl103">6</td><td class="xl103">12</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">5</td><td class="xl103">8</td><td class="xl103">4</td><td class="xl103">7</td><td class="xl103">11</td><td class="xl103">4</td><td class="xl103">3</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">17</td><td class="xl105">19.48</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1628390</td><td class="xl108">Terrance Ferguson</td><td class="xl108">G</td><td class="xl108">Oklahoma City</td><td class="xl108">Golden State</td><td class="xl108">R</td><td class="xl108">Y</td><td class="xl110">26.50</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">4</td><td class="xl108">1</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl110">4.48</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">203471</td><td class="xl103">Dennis Schroder</td><td class="xl103">G</td><td class="xl103">Oklahoma City</td><td class="xl103">Golden State</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">34.08</td><td class="xl103">7</td><td class="xl103">19</td><td class="xl103">2</td><td class="xl103">6</td><td class="xl103">5</td><td class="xl103">6</td><td class="xl103">2</td><td class="xl103">6</td><td class="xl103">8</td><td class="xl103">6</td><td class="xl103">4</td><td class="xl103">3</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">21</td><td class="xl105">28.61</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">203924</td><td class="xl108">Jerami Grant</td><td class="xl108">F</td><td class="xl108">Oklahoma City</td><td class="xl108">Golden State</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">29.10</td><td class="xl108">2</td><td class="xl108">7</td><td class="xl108">1</td><td class="xl108">4</td><td class="xl108">2</td><td class="xl108">4</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">7</td><td class="xl110">11.91</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">203518</td><td class="xl103">Alex Abrines</td><td class="xl103">G</td><td class="xl103">Oklahoma City</td><td class="xl103">Golden State</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">23.48</td><td class="xl103">3</td><td class="xl103">8</td><td class="xl103">2</td><td class="xl103">6</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">8</td><td class="xl105">13.48</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">101109</td><td class="xl108">Raymond Felton</td><td class="xl108">G</td><td class="xl108">Oklahoma City</td><td class="xl108">Golden State</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">13.92</td><td class="xl108">1</td><td class="xl108">5</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">4</td><td class="xl108">5</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">6</td><td class="xl110">26.16</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">203457</td><td class="xl103">Nerlens Noel</td><td class="xl103">F-C</td><td class="xl103">Oklahoma City</td><td class="xl103">Golden State</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">12.40</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">3</td><td class="xl103">4</td><td class="xl103">7</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl105">9.19</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1628977</td><td class="xl108">Hamidou Diallo</td><td class="xl108">G</td><td class="xl108">Oklahoma City</td><td class="xl108">Golden State</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">8.62</td><td class="xl108">2</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">4</td><td class="xl110">20.39</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">201142</td><td class="xl103">Kevin Durant</td><td class="xl103">F</td><td class="xl103">Golden State</td><td class="xl103">Oklahoma City</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">37.72</td><td class="xl103">9</td><td class="xl103">21</td><td class="xl103">0</td><td class="xl103">5</td><td class="xl103">9</td><td class="xl103">10</td><td class="xl103">1</td><td class="xl103">7</td><td class="xl103">8</td><td class="xl103">6</td><td class="xl103">4</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">27</td><td class="xl105">29.17</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">203110</td><td class="xl108">Draymond Green</td><td class="xl108">F</td><td class="xl108">Golden State</td><td class="xl108">Oklahoma City</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">32.75</td><td class="xl108">1</td><td class="xl108">6</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">12</td><td class="xl108">13</td><td class="xl108">5</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">6</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl110">14.19</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">1627745</td><td class="xl103">Damian Jones</td><td class="xl103">C</td><td class="xl103">Golden State</td><td class="xl103">Oklahoma City</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">26.55</td><td class="xl103">6</td><td class="xl103">7</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">2</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">3</td><td class="xl103">12</td><td class="xl105">13.13</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">202691</td><td class="xl108">Klay Thompson</td><td class="xl108">G</td><td class="xl108">Golden State</td><td class="xl108">Oklahoma City</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">34.98</td><td class="xl108">5</td><td class="xl108">20</td><td class="xl108">1</td><td class="xl108">8</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">1</td><td class="xl108">3</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">14</td><td class="xl110">25.82</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">201939</td><td class="xl103">Stephen Curry</td><td class="xl103">G</td><td class="xl103">Golden State</td><td class="xl103">Oklahoma City</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">36.62</td><td class="xl103">11</td><td class="xl103">20</td><td class="xl103">5</td><td class="xl103">9</td><td class="xl103">5</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">8</td><td class="xl103">8</td><td class="xl103">9</td><td class="xl103">4</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">0</td><td class="xl103">32</td><td class="xl105">26.66</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1626172</td><td class="xl108">Kevon Looney</td><td class="xl108">F</td><td class="xl108">Golden State</td><td class="xl108">Oklahoma City</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">18.07</td><td class="xl108">5</td><td class="xl108">11</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">8</td><td class="xl108">2</td><td class="xl108">10</td><td class="xl108">2</td><td class="xl108">4</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">10</td><td class="xl110">25.72</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">2738</td><td class="xl103">Andre Iguodala</td><td class="xl103">G-F</td><td class="xl103">Golden State</td><td class="xl103">Oklahoma City</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">10.38</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl105">7.46</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1626188</td><td class="xl108">Quinn Cook</td><td class="xl108">G</td><td class="xl108">Golden State</td><td class="xl108">Oklahoma City</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">13.20</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl110">11.74</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">2733</td><td class="xl103">Shaun Livingston</td><td class="xl103">G</td><td class="xl103">Golden State</td><td class="xl103">Oklahoma City</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">14.57</td><td class="xl103">3</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">6</td><td class="xl105">15.95</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">1628395</td><td class="xl108">Jordan Bell</td><td class="xl108">F</td><td class="xl108">Golden State</td><td class="xl108">Oklahoma City</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">6.65</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl110">0.00</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800002</td><td class="xl104">10/16/2018</td><td class="xl102 abe">1628035</td><td class="xl103">Alfonzo McKinnie</td><td class="xl103">F</td><td class="xl103">Golden State</td><td class="xl103">Oklahoma City</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">2.35</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl105">16.48</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800002</td><td class="xl109">10/16/2018</td><td class="xl107 abe">201973</td><td class="xl108">Jonas Jerebko</td><td class="xl108">F</td><td class="xl108">Golden State</td><td class="xl108">Oklahoma City</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">6.17</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl110">6.28</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">203114</td><td class="xl103">Khris Middleton</td><td class="xl103">F</td><td class="xl103">Milwaukee</td><td class="xl103">Charlotte</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">32.77</td><td class="xl103">7</td><td class="xl103">14</td><td class="xl103">3</td><td class="xl103">6</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">8</td><td class="xl103">9</td><td class="xl103">4</td><td class="xl103">3</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">19</td><td class="xl105">21.54</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">203507</td><td class="xl108">Giannis Antetokounmpo</td><td class="xl108">F</td><td class="xl108">Milwaukee</td><td class="xl108">Charlotte</td><td class="xl108">R</td><td class="xl108">Y</td><td class="xl110">34.77</td><td class="xl108">9</td><td class="xl108">21</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">7</td><td class="xl108">12</td><td class="xl108">3</td><td class="xl108">15</td><td class="xl108">18</td><td class="xl108">8</td><td class="xl108">5</td><td class="xl108">0</td><td class="xl108">8</td><td class="xl108">1</td><td class="xl108">25</td><td class="xl110">41.22</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">201572</td><td class="xl103">Brook Lopez</td><td class="xl103">C</td><td class="xl103">Milwaukee</td><td class="xl103">Charlotte</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">21.45</td><td class="xl103">4</td><td class="xl103">7</td><td class="xl103">2</td><td class="xl103">5</td><td class="xl103">4</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">3</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">14</td><td class="xl105">20.97</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1627763</td><td class="xl108">Malcolm Brogdon</td><td class="xl108">G</td><td class="xl108">Milwaukee</td><td class="xl108">Charlotte</td><td class="xl108">R</td><td class="xl108">Y</td><td class="xl110">38.00</td><td class="xl108">4</td><td class="xl108">9</td><td class="xl108">2</td><td class="xl108">6</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">6</td><td class="xl108">3</td><td class="xl108">1</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">10</td><td class="xl110">14.30</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">202339</td><td class="xl103">Eric Bledsoe</td><td class="xl103">G</td><td class="xl103">Milwaukee</td><td class="xl103">Charlotte</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">33.53</td><td class="xl103">7</td><td class="xl103">13</td><td class="xl103">3</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">4</td><td class="xl103">3</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">17</td><td class="xl105">18.70</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1628978</td><td class="xl108">Donte DiVincenzo</td><td class="xl108">G</td><td class="xl108">Milwaukee</td><td class="xl108">Charlotte</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">22.08</td><td class="xl108">3</td><td class="xl108">6</td><td class="xl108">2</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">8</td><td class="xl110">13.26</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">101141</td><td class="xl103">Ersan Ilyasova</td><td class="xl103">F</td><td class="xl103">Milwaukee</td><td class="xl103">Charlotte</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">28.98</td><td class="xl103">6</td><td class="xl103">9</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">8</td><td class="xl103">9</td><td class="xl103">2</td><td class="xl103">6</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">13</td><td class="xl105">12.99</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">203089</td><td class="xl108">John Henson</td><td class="xl108">F</td><td class="xl108">Milwaukee</td><td class="xl108">Charlotte</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">12.02</td><td class="xl108">1</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">4</td><td class="xl108">6</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">4</td><td class="xl110">20.45</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">203503</td><td class="xl103">Tony Snell</td><td class="xl103">G</td><td class="xl103">Milwaukee</td><td class="xl103">Charlotte</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">11.33</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl105">7.38</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1626174</td><td class="xl108">Christian Wood</td><td class="xl108">F</td><td class="xl108">Milwaukee</td><td class="xl108">Charlotte</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">4.95</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl110">8.45</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">1628425</td><td class="xl103">Sterling Brown</td><td class="xl103">G</td><td class="xl103">Milwaukee</td><td class="xl103">Charlotte</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">0.12</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl105">0.00</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">201587</td><td class="xl108">Nicolas Batum</td><td class="xl108">G-F</td><td class="xl108">Charlotte</td><td class="xl108">Milwaukee</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">31.82</td><td class="xl108">2</td><td class="xl108">8</td><td class="xl108">1</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">6</td><td class="xl108">7</td><td class="xl108">3</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">5</td><td class="xl110">13.39</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">101107</td><td class="xl103">Marvin Williams</td><td class="xl103">F</td><td class="xl103">Charlotte</td><td class="xl103">Milwaukee</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">25.85</td><td class="xl103">2</td><td class="xl103">7</td><td class="xl103">1</td><td class="xl103">6</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">8</td><td class="xl103">9</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">4</td><td class="xl103">5</td><td class="xl105">14.64</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">203469</td><td class="xl108">Cody Zeller</td><td class="xl108">F-C</td><td class="xl108">Charlotte</td><td class="xl108">Milwaukee</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">21.10</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">1</td><td class="xl108">3</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">5</td><td class="xl110">3.80</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">203087</td><td class="xl103">Jeremy Lamb</td><td class="xl103">G</td><td class="xl103">Charlotte</td><td class="xl103">Milwaukee</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">20.80</td><td class="xl103">4</td><td class="xl103">11</td><td class="xl103">2</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">10</td><td class="xl105">22.53</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">202689</td><td class="xl108">Kemba Walker</td><td class="xl108">G</td><td class="xl108">Charlotte</td><td class="xl108">Milwaukee</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">38.65</td><td class="xl108">15</td><td class="xl108">29</td><td class="xl108">7</td><td class="xl108">13</td><td class="xl108">4</td><td class="xl108">5</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">41</td><td class="xl110">37.70</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">1626195</td><td class="xl103">Willy Hernangomez</td><td class="xl103">C</td><td class="xl103">Charlotte</td><td class="xl103">Milwaukee</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">12.27</td><td class="xl103">3</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">5</td><td class="xl103">1</td><td class="xl103">4</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">9</td><td class="xl105">28.47</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">203077</td><td class="xl108">Michael Kidd-Gilchrist</td><td class="xl108">F</td><td class="xl108">Charlotte</td><td class="xl108">Milwaukee</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">21.67</td><td class="xl108">3</td><td class="xl108">6</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">4</td><td class="xl108">6</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">6</td><td class="xl108">1</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">10</td><td class="xl110">18.95</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">1628370</td><td class="xl103">Malik Monk</td><td class="xl103">G</td><td class="xl103">Charlotte</td><td class="xl103">Milwaukee</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">33.57</td><td class="xl103">7</td><td class="xl103">16</td><td class="xl103">4</td><td class="xl103">8</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">4</td><td class="xl103">4</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">18</td><td class="xl105">20.31</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800003</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1628970</td><td class="xl108">Miles Bridges</td><td class="xl108">F</td><td class="xl108">Charlotte</td><td class="xl108">Milwaukee</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">14.50</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl110">8.46</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800003</td><td class="xl104">10/17/2018</td><td class="xl102 abe">2225</td><td class="xl103">Tony Parker</td><td class="xl103">G</td><td class="xl103">Charlotte</td><td class="xl103">Milwaukee</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">19.80</td><td class="xl103">4</td><td class="xl103">8</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">3</td><td class="xl103">3</td><td class="xl103">7</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">8</td><td class="xl105">21.52</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">203925</td><td class="xl108">Joe Harris</td><td class="xl108">G-F</td><td class="xl108">Brooklyn</td><td class="xl108">Detroit</td><td class="xl108">R</td><td class="xl108">Y</td><td class="xl110">37.13</td><td class="xl108">6</td><td class="xl108">14</td><td class="xl108">1</td><td class="xl108">7</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">6</td><td class="xl108">6</td><td class="xl108">5</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">13</td><td class="xl110">19.03</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800004</td><td class="xl104">10/17/2018</td><td class="xl102 abe">201162</td><td class="xl103">Jared Dudley</td><td class="xl103">F</td><td class="xl103">Brooklyn</td><td class="xl103">Detroit</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">35.85</td><td class="xl103">0</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">4</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">3</td><td class="xl103">5</td><td class="xl103">3</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl105">7.24</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1628386</td><td class="xl108">Jarrett Allen</td><td class="xl108">C</td><td class="xl108">Brooklyn</td><td class="xl108">Detroit</td><td class="xl108">R</td><td class="xl108">Y</td><td class="xl110">30.17</td><td class="xl108">6</td><td class="xl108">10</td><td class="xl108">2</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">4</td><td class="xl108">2</td><td class="xl108">8</td><td class="xl108">10</td><td class="xl108">0</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">4</td><td class="xl108">17</td><td class="xl110">20.14</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800004</td><td class="xl104">10/17/2018</td><td class="xl102 abe">1627747</td><td class="xl103">Caris LeVert</td><td class="xl103">G</td><td class="xl103">Brooklyn</td><td class="xl103">Detroit</td><td class="xl103">R</td><td class="xl103">Y</td><td class="xl105">34.00</td><td class="xl103">10</td><td class="xl103">18</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">7</td><td class="xl103">8</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">4</td><td class="xl103">4</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">27</td><td class="xl105">31.85</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1626156</td><td class="xl108">D&#39;Angelo Russell</td><td class="xl108">G</td><td class="xl108">Brooklyn</td><td class="xl108">Detroit</td><td class="xl108">R</td><td class="xl108">Y</td><td class="xl110">24.95</td><td class="xl108">3</td><td class="xl108">9</td><td class="xl108">1</td><td class="xl108">4</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">5</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">8</td><td class="xl110">21.03</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800004</td><td class="xl104">10/17/2018</td><td class="xl102 abe">203915</td><td class="xl103">Spencer Dinwiddie</td><td class="xl103">G</td><td class="xl103">Brooklyn</td><td class="xl103">Detroit</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">32.28</td><td class="xl103">10</td><td class="xl103">18</td><td class="xl103">0</td><td class="xl103">3</td><td class="xl103">3</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">4</td><td class="xl103">4</td><td class="xl103">6</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">23</td><td class="xl105">33.11</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1626203</td><td class="xl108">Treveon Graham</td><td class="xl108">F</td><td class="xl108">Brooklyn</td><td class="xl108">Detroit</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">17.42</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">4</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl110">7.61</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800004</td><td class="xl104">10/17/2018</td><td class="xl102 abe">202334</td><td class="xl103">Ed Davis</td><td class="xl103">C</td><td class="xl103">Brooklyn</td><td class="xl103">Detroit</td><td class="xl103">R</td><td class="xl103">N</td><td class="xl105">17.60</td><td class="xl103">4</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">7</td><td class="xl103">7</td><td class="xl103">3</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">8</td><td class="xl105">16.16</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1629066</td><td class="xl108">Rodions Kurucs</td><td class="xl108">F</td><td class="xl108">Brooklyn</td><td class="xl108">Detroit</td><td class="xl108">R</td><td class="xl108">N</td><td class="xl110">10.60</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl110">12.50</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800004</td><td class="xl104">10/17/2018</td><td class="xl102 abe">1628379</td><td class="xl103">Luke Kennard</td><td class="xl103">G</td><td class="xl103">Detroit</td><td class="xl103">Brooklyn</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">19.35</td><td class="xl103">3</td><td class="xl103">5</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">4</td><td class="xl103">4</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">7</td><td class="xl105">12.87</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">201933</td><td class="xl108">Blake Griffin</td><td class="xl108">F</td><td class="xl108">Detroit</td><td class="xl108">Brooklyn</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">34.28</td><td class="xl108">8</td><td class="xl108">17</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">9</td><td class="xl108">11</td><td class="xl108">2</td><td class="xl108">6</td><td class="xl108">8</td><td class="xl108">6</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">26</td><td class="xl110">27.65</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800004</td><td class="xl104">10/17/2018</td><td class="xl102 abe">203083</td><td class="xl103">Andre Drummond</td><td class="xl103">C</td><td class="xl103">Detroit</td><td class="xl103">Brooklyn</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">32.18</td><td class="xl103">10</td><td class="xl103">21</td><td class="xl103">1</td><td class="xl103">3</td><td class="xl103">3</td><td class="xl103">4</td><td class="xl103">9</td><td class="xl103">11</td><td class="xl103">20</td><td class="xl103">2</td><td class="xl103">5</td><td class="xl103">0</td><td class="xl103">4</td><td class="xl103">1</td><td class="xl103">24</td><td class="xl105">34.51</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1628971</td><td class="xl108">Bruce Brown</td><td class="xl108">G</td><td class="xl108">Detroit</td><td class="xl108">Brooklyn</td><td class="xl108">H</td><td class="xl108">Y</td><td class="xl110">18.87</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">1</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl110">8.80</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800004</td><td class="xl104">10/17/2018</td><td class="xl102 abe">202704</td><td class="xl103">Reggie Jackson</td><td class="xl103">G</td><td class="xl103">Detroit</td><td class="xl103">Brooklyn</td><td class="xl103">H</td><td class="xl103">Y</td><td class="xl105">35.02</td><td class="xl103">7</td><td class="xl103">20</td><td class="xl103">2</td><td class="xl103">9</td><td class="xl103">3</td><td class="xl103">3</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">4</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">2</td><td class="xl103">0</td><td class="xl103">19</td><td class="xl105">27.63</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">204038</td><td class="xl108">Langston Galloway</td><td class="xl108">G</td><td class="xl108">Detroit</td><td class="xl108">Brooklyn</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">33.00</td><td class="xl108">2</td><td class="xl108">5</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">2</td><td class="xl108">2</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">3</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">6</td><td class="xl110">7.39</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800004</td><td class="xl104">10/17/2018</td><td class="xl102 abe">203922</td><td class="xl103">Glenn Robinson III</td><td class="xl103">G-F</td><td class="xl103">Detroit</td><td class="xl103">Brooklyn</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">20.07</td><td class="xl103">2</td><td class="xl103">3</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">1</td><td class="xl103">4</td><td class="xl105">8.27</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">202397</td><td class="xl108">Ish Smith</td><td class="xl108">G</td><td class="xl108">Detroit</td><td class="xl108">Brooklyn</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">28.77</td><td class="xl108">5</td><td class="xl108">11</td><td class="xl108">1</td><td class="xl108">3</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">3</td><td class="xl108">4</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">11</td><td class="xl110">17.31</td><td class="xl109">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl102 abd">NBA 2018-2019 Regular Season</td><td class="xl103">0021800004</td><td class="xl104">10/17/2018</td><td class="xl102 abe">2585</td><td class="xl103">Zaza Pachulia</td><td class="xl103">C</td><td class="xl103">Detroit</td><td class="xl103">Brooklyn</td><td class="xl103">H</td><td class="xl103">N</td><td class="xl105">14.72</td><td class="xl103">2</td><td class="xl103">6</td><td class="xl103">0</td><td class="xl103">0</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">5</td><td class="xl103">7</td><td class="xl103">4</td><td class="xl103">5</td><td class="xl103">2</td><td class="xl103">2</td><td class="xl103">1</td><td class="xl103">6</td><td class="xl105">25.03</td><td class="xl104">3+</td></tr><tr height="14" class="abd"><td height="14" class="xl107 abd">NBA 2018-2019 Regular Season</td><td class="xl108">0021800004</td><td class="xl109">10/17/2018</td><td class="xl107 abe">1629155</td><td class="xl108">Zach Lofton</td><td class="xl108">G</td><td class="xl108">Detroit</td><td class="xl108">Brooklyn</td><td class="xl108">H</td><td class="xl108">N</td><td class="xl110">3.75</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl108">1</td><td class="xl108">1</td><td class="xl108">0</td><td class="xl108">0</td><td class="xl110">22.13</td><td class="xl109">3+</td></tr></table><div class="abf"><hr class="msocomhide" align="left" size="1" width="33%"><div class="abf"><div id="_com_1" class="msocomtxt" onmouseover="msoCommentShow(&#39;_com_1&#39;,&#39;_anchor_1&#39;)" onmouseout="msoCommentHide(&#39;_com_1&#39;)" language="JavaScript"><div><a class="msocomhide" href="#" name="sheet001__msocom_1" onclick="goto_cell(decodeURI(&#39;sheet001&#39;), decodeURI(&#39;sheet001__msoanchor_1&#39;)); return false;">[1]</a><span class="abf"><div v:shape="_x0000_s3073" class="shape abg"><font class="font20">&#39;3+&#39; means &#34;season debut&#34;<br>
+&#39;0&#39; means &#34;back-to-back&#34;</font></div></span></div></div></div></div></div><script>activate_tab('tabstrip-link-0')</script><div id="sheet002" class="sheet-content" style="display: none;"><table border="0" cellpadding="0" cellspacing="0" width="923" class="abh"><col width="108" class="abi"><col width="157" class="abj"><col width="402" class="abk"><col class="xl78 abl" width="256"><tr class="xl69 abm" height="24"><td height="24" class="xl68 abn">CATEGORY</td><td class="xl68 abo">SUB-CATEGORY</td><td class="xl68 abp">DESCRIPTION</td><td class="xl68 abq">MORE ABOUT
+  METADATA</td></tr><tr height="16" class="abr"><td rowspan="3" height="48" class="xl112 abs">GAME<br>
+    INFORMATION</td><td class="xl70 abo">DATASET</td><td class="xl71 abt">The season that the
+  game belongs to</td><td class="xl71 abt"> </td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">GAME-ID</td><td class="xl72 abt">Game-id at NBA.com</td><td class="xl72 abt"> </td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">DATE</td><td class="xl73 abt">Date of the game
+  (MM-DD-YYYY)</td><td class="xl73 abt"> </td></tr><tr height="16" class="abr"><td rowspan="25" height="400" class="xl115 abv">PLAYER<br>
+    STATS</td><td class="xl70 abw">PLAYER-ID</td><td class="xl74 abe">Player id at NBA.com</td><td class="xl74 abe"> </td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">PLAYER FULLNAME</td><td class="xl72 abt">Player full name at
+  NBA.com</td><td class="xl72 abt"> </td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">POSITION</td><td class="xl72 abt">Player position at
+  NBA.com</td><td class="xl72 abt"> </td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">OWN TEAM</td><td class="xl72 abt">The team that the
+  player is playing for</td><td class="xl75 abt"><u class="abx"> </u></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">OPPONENT TEAM</td><td class="xl72 abt">Opponent team faced</td><td class="xl75 abt"><u class="abx"> </u></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">VENUE</td><td class="xl72 abt">Venue of the game for
+  the player. Either played on the &#39;Road&#39; (R) or at &#39;Home&#39; (H)</td><td class="xl75 abt"><u class="abx"> </u></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">STARTER</td><td class="xl72 abt">Whether the player
+  has started or not</td><td class="xl75 abt"><u class="abx"> </u></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">MIN</td><td class="xl72 abt">Minutes</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">FG</td><td class="xl72 abt">Field Goals Made</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">FGA</td><td class="xl72 abt">Field Goals Attempted</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">3P</td><td class="xl72 abt">Three Point Field
+  Goals Made</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">3PA</td><td class="xl72 abt">Three Point Field
+  Goals Attempted</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">FT</td><td class="xl72 abt">Free Throws Made</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">FTA</td><td class="xl72 abt">Free Throws Attempted</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">OR</td><td class="xl72 abt">Offensive Rebounds</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">DR</td><td class="xl72 abt">Defensive Rebounds</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">TOT</td><td class="xl72 abt">Total Rebounds</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">A</td><td class="xl72 abt">Assists</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">PF</td><td class="xl72 abt">Personal Fouls</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">ST</td><td class="xl72 abt">Steals</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">TO</td><td class="xl72 abt">Turnovers</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">BL</td><td class="xl72 abt">Blocks</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">PTS</td><td class="xl72 abt">Points</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl70 abu">USAGE RATE %</td><td class="xl72 abt">Usage rate a.k.a.
+  Usage Percentage</td><td class="xl75 abt"><a href="https://www.nbastuffer.com/analytics101/usage-rate/" target="_parent"><span class="aby">https://www.nbastuffer.com/analytics101/usage-rate<span class="abz">/</span></span></a></td></tr><tr height="16" class="abr"><td height="16" class="xl76 abu">DAYS REST</td><td class="xl73 abt">Player&#39;s individual
+  days rested. &#34;0&#34; (zero) means back-to-back; &#34;3+&#34; means
+  &#34;Season De<span class="abz">but&#34;</span></td><td class="xl77 abt"><a href="https://www.nbastuffer.com/player-stats/" target="_parent"><span class="aby">https://www.nbastuffer.com/player-stats/</span></a></td></tr></table></div><script>activate_tab('tabstrip-link-1')</script><div id="sheet003" class="sheet-content" style="display: none;"><table border="0" cellpadding="0" cellspacing="0" width="324" class="aca"><col class="xl78 aal" width="39"><col class="xl78 acb" width="162"><col class="xl78 acc" width="123"><tr height="15" class="acd"><td height="15" class="xl79 ace">INITIALS</td><td class="xl79 acf">LONG NAME</td><td class="xl79 acg">SHORT NAME</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">ATL</td><td class="xl80">Atlanta Hawks</td><td class="xl80">Atlanta</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">BOS</td><td class="xl81">Boston Celtics</td><td class="xl81">Boston</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">BKN</td><td class="xl80">Brooklyn Nets</td><td class="xl80">Brooklyn</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">CHA</td><td class="xl81">Charlotte Hornets</td><td class="xl81">Charlotte</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">CHA</td><td class="xl80">Charlotte Bobcats</td><td class="xl80">Charlotte</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">CHI</td><td class="xl81">Chicago Bulls</td><td class="xl81">Chicago</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">CLE</td><td class="xl80">Cleveland Cavaliers</td><td class="xl80">Cleveland</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">DAL</td><td class="xl81">Dallas Mavericks</td><td class="xl81">Dallas</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">DEN</td><td class="xl80">Denver Nuggets</td><td class="xl80">Denver</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">DET</td><td class="xl81">Detroit Pistons</td><td class="xl81">Detroit</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">GSW</td><td class="xl80">Golden State Warriors</td><td class="xl80">Golden State</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">HOU</td><td class="xl81">Houston Rockets</td><td class="xl81">Houston</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">IND</td><td class="xl80">Indiana Pacers</td><td class="xl80">Indiana</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">LAC</td><td class="xl81">Los Angeles Clippers</td><td class="xl81">LA Clippers</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">LAL</td><td class="xl80">Los Angeles Lakers</td><td class="xl80">LA Lakers</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">MEM</td><td class="xl81">Memphis Grizzlies</td><td class="xl81">Memphis</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">MIA</td><td class="xl80">Miami Heat</td><td class="xl80">Miami</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">MIL</td><td class="xl81">Milwaukee Bucks</td><td class="xl81">Milwaukee</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">MIN</td><td class="xl80">Minnesota Timberwolves</td><td class="xl80">Minnesota</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">NJN</td><td class="xl81">New Jersey Nets</td><td class="xl81">New Jersey</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">NOH</td><td class="xl80">New Orleans Hornets</td><td class="xl80">New Orleans</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">NOH</td><td class="xl81">New Orleans Hornets/Oklahoma C<span class="abz">ity</span></td><td class="xl81">New Orleans/Oklahoma C<span class="abz">ity</span></td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">NOP</td><td class="xl80">New Orleans Pelicans</td><td class="xl80">New Orleans</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">NYK</td><td class="xl81">New York Knicks</td><td class="xl81">New York</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">OKC</td><td class="xl80">Oklahoma City Thunder</td><td class="xl80">Oklahoma City</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">ORL</td><td class="xl81">Orlando Magic</td><td class="xl81">Orlando</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">PHI</td><td class="xl80">Philadelphia 76ers</td><td class="xl80">Philadelphia</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">PHX</td><td class="xl81">Phoenix Suns</td><td class="xl81">Phoenix</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">POR</td><td class="xl80">Portland Trailblazers</td><td class="xl80">Portland</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">SAC</td><td class="xl81">Sacramento Kings</td><td class="xl81">Sacramento</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">SAS</td><td class="xl80">San Antonio Spurs</td><td class="xl80">San Antonio</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">SEA</td><td class="xl81">Seattle Supersonics</td><td class="xl81">Seattle</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">TOR</td><td class="xl80">Toronto Raptors</td><td class="xl80">Toronto</td></tr><tr height="15" class="acd"><td height="15" class="xl81 acd">UTA</td><td class="xl81">Utah Jazz</td><td class="xl81">Utah</td></tr><tr height="15" class="acd"><td height="15" class="xl80 acd">WAS</td><td class="xl80">Washington Wizards</td><td class="xl80">Washington</td></tr></table></div><script>activate_tab('tabstrip-link-2')</script><div id="sheet004" class="sheet-content" style="display: none;"><table border="0" cellpadding="0" cellspacing="0" width="897" class="ach"><col class="xl82 aaj" width="43"><col class="xl82 aci" width="150"><col class="xl82 acj" width="182"><col class="xl82 ack" width="166"><col class="xl82 aak" width="52"><col class="xl82 acl" width="76" span="4"><tr height="20" class="acm"><td height="20" class="xl82 acn" colspan="9">BigDataball uses a double-digit, text date format
+  (MM-DD-YYYY, ie. &#34;04/15/2017&#34;) which is not recognized by Excel as
+  a real date format.</td></tr><tr height="20" class="acm"><td colspan="9" style="border-collapse:collapse"></td></tr><tr height="20" class="acm"><td height="20" class="xl83 aco" colspan="3">To
+  convert BigDataBall dates to Excel dates or vice versa:</td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td></tr><tr height="28" class="acp"><td height="28" class="xl82 acq" colspan="3">Just
+  apply one the the appopriate formulas below</td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td></tr><tr height="28" class="acp"><td colspan="9" style="border-collapse:collapse"></td></tr><tr height="28" class="acp"><td height="28" class="xl84 acp"> </td><td class="xl84"> </td><td class="xl84"> </td><td class="xl84"> </td><td class="xl84"> </td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td></tr><tr height="64" class="acr"><td height="64" class="xl84 acr"> </td><td class="xl85 acs">BIGDATABALL STANDARD <br>
+    DATE FORMAT<br>
+    <font class="font15">(MM-DD-YYYY)</font></td><td class="xl86 act">CONVERT
+  FROM<span class="abf">  </span><br>
+    BIGDATABALL DATE<br>
+    to EXCEL DATE <br>
+    <font class="font15">(MM-DD-YYYY) to (M-D-YYYY)</font></td><td class="xl87 acu">CONVERT
+  FROM<span class="abf">  </span><br>
+    EXCEL DATE<br>
+    to BIGDATABALL DATE <br>
+    <font class="font15">(M-D-YYYY) to (MM-DD-YYYY)</font></td><td class="xl84"> </td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td></tr><tr height="28" class="acp"><td height="28" class="xl84 acp"> </td><td class="xl88">04/17/2018</td><td class="xl89 acv">4/17/18</td><td class="xl89 acw">04/17/2018</td><td class="xl84"> </td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td></tr><tr height="28" class="acp"><td height="28" class="xl84 acp"> </td><td class="xl90 acs"> </td><td class="xl91"> </td><td class="xl84"> </td><td class="xl84"> </td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td><td class="xl82"></td></tr></table></div><script>activate_tab('tabstrip-link-3')</script></div></body></html>

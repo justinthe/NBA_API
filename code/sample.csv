@@ -1,0 +1,87 @@
+DATASET,GAME-ID,DATE,PLAYER-ID,FULL NAME,POSITION,OWNTEAM,OPPONENTTEAM,VENUE,STARTER,MIN,FG,FGA,3P,3PA,FT,FTA,OR,DR,TOT,A,PF,ST,TO,BL,PTS,USAGERATE,REST[1]
+NBA 2018-2019 Regular Season,21800001,10/16/2018,203967,Dario Saric,F,Philadelphia,Boston,R,Y,22.9,3,8,0,4,0,0,0,6,6,1,5,0,3,0,6,20.38,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,203496,Robert Covington,F,Philadelphia,Boston,R,Y,34.22,3,10,2,7,0,0,1,5,6,0,1,2,2,1,8,14.88,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,203954,Joel Embiid,F-C,Philadelphia,Boston,R,Y,36.82,9,21,1,4,4,5,2,8,10,2,3,1,5,2,23,32.5,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1628365,Markelle Fultz,G,Philadelphia,Boston,R,Y,24.33,2,7,0,0,1,2,0,3,3,2,1,1,3,0,5,18.98,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1627732,Ben Simmons,G-F,Philadelphia,Boston,R,Y,42.73,7,14,0,0,5,10,3,12,15,8,5,4,3,2,19,21.25,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,101161,Amir Johnson,C-F,Philadelphia,Boston,R,N,11.18,1,1,0,0,3,4,0,3,3,1,1,0,0,0,5,10.48,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,200755,JJ Redick,G,Philadelphia,Boston,R,N,29.77,7,17,2,8,0,0,0,2,2,1,1,0,0,0,16,24.23,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,204456,T.J. McConnell,G,Philadelphia,Boston,R,N,22.43,2,5,0,1,0,0,0,1,1,3,3,0,0,0,4,9.46,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1629013,Landry Shamet,G,Philadelphia,Boston,R,N,12.72,0,4,0,2,1,2,0,1,1,0,0,0,0,0,1,16.28,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1628413,Jonah Bolden,F,Philadelphia,Boston,R,N,1.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1627788,Furkan Korkmaz,G-F,Philadelphia,Boston,R,N,1.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1628369,Jayson Tatum,F,Boston,Philadelphia,H,Y,28.93,9,17,1,5,4,5,2,7,9,3,2,1,1,0,23,28.61,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,202330,Gordon Hayward,F,Boston,Philadelphia,H,Y,24.62,4,12,1,3,1,2,2,3,5,0,1,4,0,0,10,21.43,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,201143,Al Horford,F-C,Boston,Philadelphia,H,Y,29.95,4,7,0,1,1,1,0,4,4,2,1,0,3,4,9,14.28,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1627759,Jaylen Brown,F,Boston,Philadelphia,H,Y,28.38,5,13,1,3,1,2,3,2,5,2,4,0,2,0,12,22.92,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,202681,Kyrie Irving,G,Boston,Philadelphia,H,Y,29,2,14,1,8,2,2,0,4,4,7,1,0,3,0,7,25.26,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,202694,Marcus Morris,F,Boston,Philadelphia,H,N,20.5,7,12,2,7,0,0,2,8,10,0,5,2,1,0,16,25.98,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1626179,Terry Rozier,G,Boston,Philadelphia,H,N,26.52,5,10,1,2,0,0,0,8,8,1,0,0,1,1,11,16.99,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,203935,Marcus Smart,G,Boston,Philadelphia,H,N,25,2,4,2,4,1,2,0,3,3,3,2,0,2,0,7,11.27,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,203382,Aron Baynes,F-C,Boston,Philadelphia,H,N,19.23,3,7,2,4,0,0,3,1,4,3,3,0,1,0,8,17.04,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1628464,Daniel Theis,F,Boston,Philadelphia,H,N,4.13,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1628400,Semi Ojeleye,F,Boston,Philadelphia,H,N,1.45,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,1627824,Guerschon Yabusele,F,Boston,Philadelphia,H,N,1.45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3+
+NBA 2018-2019 Regular Season,21800001,10/16/2018,202954,Brad Wanamaker,G,Boston,Philadelphia,H,N,0.83,1,1,0,0,0,0,0,1,1,0,0,0,0,0,2,49.36,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,202331,Paul George,F,Oklahoma City,Golden State,R,Y,37.4,9,23,4,12,5,8,0,2,2,5,3,4,5,0,27,33.36,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,202335,Patrick Patterson,F,Oklahoma City,Golden State,R,Y,18.9,2,9,1,4,2,3,3,2,5,0,0,1,1,1,7,23.7,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,203500,Steven Adams,C,Oklahoma City,Golden State,R,Y,35.6,6,12,0,0,5,8,4,7,11,4,3,2,2,0,17,19.48,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,1628390,Terrance Ferguson,G,Oklahoma City,Golden State,R,Y,26.5,0,2,0,2,0,0,2,2,4,1,3,0,1,0,0,4.48,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,203471,Dennis Schroder,G,Oklahoma City,Golden State,R,Y,34.08,7,19,2,6,5,6,2,6,8,6,4,3,3,1,21,28.61,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,203924,Jerami Grant,F,Oklahoma City,Golden State,R,N,29.1,2,7,1,4,2,4,2,0,2,2,1,0,0,3,7,11.91,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,203518,Alex Abrines,G,Oklahoma City,Golden State,R,N,23.48,3,8,2,6,0,0,0,2,2,0,2,0,0,0,8,13.48,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,101109,Raymond Felton,G,Oklahoma City,Golden State,R,N,13.92,1,5,0,3,4,5,0,3,3,1,0,0,2,0,6,26.16,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,203457,Nerlens Noel,F-C,Oklahoma City,Golden State,R,N,12.4,1,2,0,0,1,2,3,4,7,1,3,1,0,1,3,9.19,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,1628977,Hamidou Diallo,G,Oklahoma City,Golden State,R,N,8.62,2,4,0,0,0,1,0,1,1,1,2,1,0,0,4,20.39,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,201142,Kevin Durant,F,Golden State,Oklahoma City,H,Y,37.72,9,21,0,5,9,10,1,7,8,6,4,1,3,1,27,29.17,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,203110,Draymond Green,F,Golden State,Oklahoma City,H,Y,32.75,1,6,0,1,0,0,1,12,13,5,3,3,6,0,2,14.19,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,1627745,Damian Jones,C,Golden State,Oklahoma City,H,Y,26.55,6,7,0,0,0,0,2,1,3,2,4,0,2,3,12,13.13,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,202691,Klay Thompson,G,Golden State,Oklahoma City,H,Y,34.98,5,20,1,8,3,3,1,3,4,0,3,0,2,0,14,25.82,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,201939,Stephen Curry,G,Golden State,Oklahoma City,H,Y,36.62,11,20,5,9,5,5,0,8,8,9,4,1,3,0,32,26.66,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,1626172,Kevon Looney,F,Golden State,Oklahoma City,H,N,18.07,5,11,0,0,0,0,8,2,10,2,4,1,1,2,10,25.72,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,2738,Andre Iguodala,G-F,Golden State,Oklahoma City,H,N,10.38,1,2,0,1,0,0,0,2,2,2,0,0,0,0,2,7.46,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,1626188,Quinn Cook,G,Golden State,Oklahoma City,H,N,13.2,1,2,1,1,0,0,1,1,2,1,2,0,2,0,3,11.74,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,2733,Shaun Livingston,G,Golden State,Oklahoma City,H,N,14.57,3,5,0,0,0,0,2,1,3,1,2,1,1,0,6,15.95,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,1628395,Jordan Bell,F,Golden State,Oklahoma City,H,N,6.65,0,0,0,0,0,0,1,1,2,0,1,0,0,1,0,0,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,1628035,Alfonzo McKinnie,F,Golden State,Oklahoma City,H,N,2.35,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,16.48,3+
+NBA 2018-2019 Regular Season,21800002,10/16/2018,201973,Jonas Jerebko,F,Golden State,Oklahoma City,H,N,6.17,0,0,0,0,0,0,0,3,3,0,2,0,1,0,0,6.28,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,203114,Khris Middleton,F,Milwaukee,Charlotte,R,Y,32.77,7,14,3,6,2,2,1,8,9,4,3,2,2,1,19,21.54,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,203507,Giannis Antetokounmpo,F,Milwaukee,Charlotte,R,Y,34.77,9,21,0,3,7,12,3,15,18,8,5,0,8,1,25,41.22,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,201572,Brook Lopez,C,Milwaukee,Charlotte,R,Y,21.45,4,7,2,5,4,4,0,3,3,1,3,1,2,0,14,20.97,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,1627763,Malcolm Brogdon,G,Milwaukee,Charlotte,R,Y,38,4,9,2,6,0,0,0,3,3,6,3,1,4,0,10,14.3,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,202339,Eric Bledsoe,G,Milwaukee,Charlotte,R,Y,33.53,7,13,3,5,0,0,2,2,4,3,4,0,2,1,17,18.7,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,1628978,Donte DiVincenzo,G,Milwaukee,Charlotte,R,N,22.08,3,6,2,4,0,0,1,1,2,1,0,1,1,0,8,13.26,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,101141,Ersan Ilyasova,F,Milwaukee,Charlotte,R,N,28.98,6,9,1,3,0,0,1,8,9,2,6,0,0,0,13,12.99,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,203089,John Henson,F,Milwaukee,Charlotte,R,N,12.02,1,3,0,0,2,2,2,4,6,0,1,0,2,1,4,20.45,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,203503,Tony Snell,G,Milwaukee,Charlotte,R,N,11.33,0,2,0,1,0,0,1,1,2,1,0,0,0,0,0,7.38,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,1626174,Christian Wood,F,Milwaukee,Charlotte,R,N,4.95,1,1,1,1,0,0,0,1,1,0,0,0,0,0,3,8.45,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,1628425,Sterling Brown,G,Milwaukee,Charlotte,R,N,0.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,201587,Nicolas Batum,G-F,Charlotte,Milwaukee,H,Y,31.82,2,8,1,4,0,0,1,6,7,3,1,2,2,2,5,13.39,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,101107,Marvin Williams,F,Charlotte,Milwaukee,H,Y,25.85,2,7,1,6,0,2,1,8,9,1,2,0,1,4,5,14.64,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,203469,Cody Zeller,F-C,Charlotte,Milwaukee,H,Y,21.1,1,1,1,1,2,2,0,3,3,1,3,1,0,0,5,3.8,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,203087,Jeremy Lamb,G,Charlotte,Milwaukee,H,Y,20.8,4,11,2,4,0,0,2,0,2,1,2,1,0,0,10,22.53,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,202689,Kemba Walker,G,Charlotte,Milwaukee,H,Y,38.65,15,29,7,13,4,5,1,1,2,4,0,2,3,0,41,37.7,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,1626195,Willy Hernangomez,C,Charlotte,Milwaukee,H,N,12.27,3,5,0,1,3,5,1,4,5,0,3,1,1,0,9,28.47,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,203077,Michael Kidd-Gilchrist,F,Charlotte,Milwaukee,H,N,21.67,3,6,0,0,4,6,3,3,6,1,3,0,1,1,10,18.95,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,1628370,Malik Monk,G,Charlotte,Milwaukee,H,N,33.57,7,16,4,8,0,0,0,4,4,2,1,1,0,2,18,20.31,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,1628970,Miles Bridges,F,Charlotte,Milwaukee,H,N,14.5,0,1,0,1,1,2,0,0,0,1,2,0,1,0,1,8.46,3+
+NBA 2018-2019 Regular Season,21800003,10/17/2018,2225,Tony Parker,G,Charlotte,Milwaukee,H,N,19.8,4,8,0,0,0,0,0,3,3,7,2,0,2,0,8,21.52,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,203925,Joe Harris,G-F,Brooklyn,Detroit,R,Y,37.13,6,14,1,7,0,0,0,6,6,5,2,1,2,0,13,19.03,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,201162,Jared Dudley,F,Brooklyn,Detroit,R,Y,35.85,0,5,0,4,1,2,2,1,3,3,5,3,0,0,1,7.24,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,1628386,Jarrett Allen,C,Brooklyn,Detroit,R,Y,30.17,6,10,2,3,3,4,2,8,10,0,4,0,2,4,17,20.14,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,1627747,Caris LeVert,G,Brooklyn,Detroit,R,Y,34,10,18,0,2,7,8,1,3,4,4,2,1,3,1,27,31.85,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,1626156,D'Angelo Russell,G,Brooklyn,Detroit,R,Y,24.95,3,9,1,4,1,2,0,2,2,5,1,1,2,0,8,21.03,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,203915,Spencer Dinwiddie,G,Brooklyn,Detroit,R,N,32.28,10,18,0,3,3,5,0,4,4,6,1,1,4,0,23,33.11,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,1626203,Treveon Graham,F,Brooklyn,Detroit,R,N,17.42,0,2,0,2,0,0,0,2,2,1,4,1,1,0,0,7.61,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,202334,Ed Davis,C,Brooklyn,Detroit,R,N,17.6,4,4,0,0,0,1,0,7,7,3,2,1,2,0,8,16.16,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,1629066,Rodions Kurucs,F,Brooklyn,Detroit,R,N,10.6,1,2,1,2,0,0,0,1,1,1,2,0,1,0,3,12.5,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,1628379,Luke Kennard,G,Detroit,Brooklyn,H,Y,19.35,3,5,1,1,0,0,0,4,4,0,1,0,1,1,7,12.87,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,201933,Blake Griffin,F,Detroit,Brooklyn,H,Y,34.28,8,17,1,1,9,11,2,6,8,6,0,0,1,0,26,27.65,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,203083,Andre Drummond,C,Detroit,Brooklyn,H,Y,32.18,10,21,1,3,3,4,9,11,20,2,5,0,4,1,24,34.51,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,1628971,Bruce Brown,G,Detroit,Brooklyn,H,Y,18.87,0,3,0,2,0,0,0,2,2,1,4,0,1,1,0,8.8,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,202704,Reggie Jackson,G,Detroit,Brooklyn,H,Y,35.02,7,20,2,9,3,3,1,1,2,4,1,1,2,0,19,27.63,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,204038,Langston Galloway,G,Detroit,Brooklyn,H,N,33,2,5,0,3,2,2,0,3,3,1,0,0,0,0,6,7.39,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,203922,Glenn Robinson III,G-F,Detroit,Brooklyn,H,N,20.07,2,3,0,1,0,0,0,0,0,0,0,1,1,1,4,8.27,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,202397,Ish Smith,G,Detroit,Brooklyn,H,N,28.77,5,11,1,3,0,0,0,0,0,3,4,0,1,0,11,17.31,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,2585,Zaza Pachulia,C,Detroit,Brooklyn,H,N,14.72,2,6,0,0,2,2,2,5,7,4,5,2,2,1,6,25.03,3+
+NBA 2018-2019 Regular Season,21800004,10/17/2018,1629155,Zach Lofton,G,Detroit,Brooklyn,H,N,3.75,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,22.13,3+
